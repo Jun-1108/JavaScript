@@ -11,4 +11,6 @@ https://www.notion.so/JavaScript-dc9c5b931d6646b8962590628bcae383?pvs=4
 ![username 유효성 검사](https://github.com/Jun-1108/JavaScript/assets/48702150/b0799eae-d0e6-4440-b822-835a9f2406b3) <br>
 ### html에서 유효성 검사
 ![html을 이용한 유효성 검사 2](https://github.com/Jun-1108/JavaScript/assets/48702150/c38fa69f-98c9-4b09-a4de-aaa80ac6a909)
-form 안에 input을 활용한 유효성 검사로, form안에서 input은 enter나 버튼을 클릭하면, 자동으로 submit이 된다.(새로고침)
+form 안에 input을 활용한 유효성 검사로, <br>
+form안에서 input은 enter나 버튼을 클릭하면, 자동으로 submit이 된다.(새로고침)
+그리고 이후..
