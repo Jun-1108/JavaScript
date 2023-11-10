@@ -1,5 +1,5 @@
-# JavaScript
-## notion에 정리를 했습니다..!
+# JavaScript 기초다지기
+## notion에 정리를 했습니다. 
 https://www.notion.so/JavaScript-dc9c5b931d6646b8962590628bcae383?pvs=4
 ## Event 실행과 사용법
 ![Event](https://github.com/Jun-1108/JavaScript/assets/48702150/cfab1a0c-5586-4abc-b274-b54d8cd4bfbe) <br>
@@ -13,4 +13,6 @@ https://www.notion.so/JavaScript-dc9c5b931d6646b8962590628bcae383?pvs=4
 ![html을 이용한 유효성 검사 2](https://github.com/Jun-1108/JavaScript/assets/48702150/c38fa69f-98c9-4b09-a4de-aaa80ac6a909)
 form 안에 input을 활용한 유효성 검사로, <br>
 form안에서 input은 enter나 버튼을 클릭하면, 자동으로 submit이 된다.(새로고침)
+![1111 끝 상태](https://github.com/Jun-1108/JavaScript/assets/48702150/d38a5611-f20f-4417-819c-6fb44da0201a)
+마지막 상태입니다. 
 그리고 이후..
